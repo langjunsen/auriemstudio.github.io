@@ -11475,4 +11475,12 @@ h2, h3 {
         opacity: 1 !important;
         pointer-events: auto !important;
     }
+
+}/* ===== 底部联系卡片 & 页脚文字颜色改为深色 ===== */
+.contact-section .card-body .small,
+.contact-section .card-body .text-black-50,
+.footer .text-white-50,
+.footer small,
+.footer .small {
+    color: #333 !important;  /* 纯黑色 */
 }
