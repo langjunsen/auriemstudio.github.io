@@ -11483,4 +11483,14 @@ h2, h3 {
 .footer small,
 .footer .small {
     color: #333 !important;  /* 纯黑色 */
+}/* ===== 首页大标题字体调细 + 增加字母间距 ===== */
+.masthead h1 {
+    font-weight: 400 !important;      /* 正常粗细，可选 300（更细） */
+    letter-spacing: 0.15em !important; /* 字母间距，原先是 0.15em */
+}
+
+/* 如果导航栏品牌名也想调，加上这句 */
+.navbar-brand {
+    font-weight: 400 !important;
+    letter-spacing: 0.15em !important;
 }
