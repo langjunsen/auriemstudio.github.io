@@ -2,24 +2,24 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<url>
-    <loc>https://www.auriemstudio.com/</loc>
-    <priority>1.0</priority>
-</url>
+    <url>
+        <loc>https://auriemstudio.com/</loc>
+        <priority>1.0</priority>
+    </url>
 
-<url>
-    <loc>https://www.auriemstudio.com/about.html</loc>
-    <priority>0.8</priority>
-</url>
+    <url>
+        <loc>https://auriemstudio.com/cn.html</loc>
+        <priority>0.8</priority>
+    </url>
 
-<url>
-    <loc>https://www.auriemstudio.com/services.html</loc>
-    <priority>0.8</priority>
-</url>
+    <url>
+        <loc>https://auriemstudio.com/jp.html</loc>
+        <priority>0.8</priority>
+    </url>
 
-<url>
-    <loc>https://www.auriemstudio.com/contact.html</loc>
-    <priority>0.7</priority>
-</url>
+    <url>
+        <loc>https://auriemstudio.com/kr.html</loc>
+        <priority>0.8</priority>
+    </url>
 
 </urlset>
